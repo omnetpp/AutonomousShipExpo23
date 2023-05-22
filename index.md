@@ -1,10 +1,12 @@
 
 ![](titlebar.png)
-# OMNEST @ Autonomous Ship Expo
+## <a href="https://www.omnest.com" target="_blank">OMNEST</a> @ Autonomous Ship Expo
 
 Thank you for meeting us in Amsterdam. Since you are here, we would like to present you with the option to explore and try OMNEST at your own pace.
 
-So how can OMNEST be useful? OMNEST is a discrete event simulation system, which can be customized and extended to your needs, but provides you with a great basis to develop and test your products. Many of our existing clients use OMNEST for network simulation. In-vehicle networks, ad-hoc wireless networks, LTE and 5G networks, sensor networks, satellite networking, underwater communications, V2X, etc. The list is very long. OMNEST is the commercial version of the OMNeT++ simulator, which is widely used for academic research, teaching course work at various schools and universities. 
+So how can OMNEST be useful? OMNEST is a discrete event simulation system, which can be customized and extended to your needs, but provides you with a great basis to develop and test your products. 
+
+Many of our existing clients use OMNEST for network simulation. In-vehicle networks, ad-hoc wireless networks, LTE and 5G networks, sensor networks, satellite networking, underwater communications, V2X, etc. The list is very long. OMNEST is the commercial version of the OMNeT++ simulator, which is widely used for academic research, teaching course work at various schools and universities. 
 
 Should you have any questions at all, I would be very happy to hear from you. Please feel free to send me an email at *gabor dot tabi (curly”at”sign) omnest dot com*. 
 
@@ -12,18 +14,27 @@ Should you have any questions at all, I would be very happy to hear from you. Pl
 
 ## About OMNEST
 
-[What is OMNEST?](https://www.notion.so/What-is-OMNEST-efea2ede8ab146a996eafe64791db6d1)
+[What is OMNEST?](whatisomnest.html)
 
-[Let’s get technical!](https://www.notion.so/Let-s-get-technical-48483be3124546f4896a512ec602a5db)
+[Let’s get technical!](letsgettechnical.html)
 
-[Who uses OMNEST?](https://www.notion.so/Who-uses-OMNEST-c2aa5c8a6d6d4cd98873d8f8406c0333)
+[Who uses OMNEST?](whousesomnest.html)
 
 ---
 
-[Eye Candy](https://www.notion.so/Eye-Candy-efbd5dca85074d468d09912bb79feb3c)
+[Eye Candy](eyecandy.html)
 
 ---
 
 ## Links to some published papers in the maritime field
 
-[You may find these papers interesting](https://www.notion.so/You-may-find-these-papers-interesting-114aecc2613c44f2bf638e926f20df5e)
+### You may find these papers interesting
+
+<a href="https://www.academia.edu/88657617/Modeling_Underwater_Communication_for_Autonomous_Underwater_Vehicles_in_OMNeT_" target="_blank">📃Modeling Underwater Communication for Autonomous Underwater Vehicles in OMNeT++ (external:academia.edu)</a>
+
+<a href="https://www.researchgate.net/publication/366700608_Wireless_Link_Selection_Methods_for_Maritime_Communication_Access_Networks-A_Deep_Learning_Approach" target="_blank">📃Wireless Link Selection Methods for Maritime Communication Access Networks—A Deep Learning Approach (external: Researchgate)</a>
+
+<a href="https://elib.dlr.de/146452/" target="_blank">📃Simulation model for energy consumption and acoustic underwater communication of autonomous underwater vehicles (external:dlr.de)</a>
+
+We look forward to hearing from you! Please **get in touch** with us for any questions you have: 
+[https://www.omnest.com/contact](https://www.omnest.com/contact)
