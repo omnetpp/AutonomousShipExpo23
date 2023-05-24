@@ -8,7 +8,7 @@ So how can OMNEST be useful? OMNEST is a discrete event simulation system, which
 
 Our simulation platform allows engineers and researchers to accurately model and simulate complex maritime environments, enabling more efficient and effective design and testing of autonomous ship systems.
 
-Many of our existing clients use OMNEST for network simulation. In-vehicle networks, ad-hoc wireless networks, LTE and 5G networks, sensor networks, satellite networking, underwater communications, V2X, etc. The list is very long. OMNEST is the commercial version of the OMNeT++ simulator, which is widely used for academic research, teaching course work at various schools and universities. 
+Many of our existing clients use OMNEST for network simulation. In-vehicle networks, ad-hoc wireless networks, LTE and 5G networks, sensor networks, satellite networking, underwater communications, V2X, etc. The list is very long. OMNEST is the commercial version of the OMNeT++ simulator, which is widely used for academic research, teaching and course work at various schools and universities. 
 
 Should you have any questions at all, I would be very happy to hear from you. Please feel free to send me an email at *gabor dot tabi (curly”at”sign) omnest dot com*. 
 
