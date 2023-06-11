@@ -1,5 +1,5 @@
 
-[![titlebar](titlebar.png)](./index.md)
+[![titlebar](titlebar.png)](https://omnetpp.github.io/AutonomousShipExpo23/)
 # Eye Candy
 
 While you can find an endless supply of OMNEST/OMNeT++ videos online, here is a link to our channel with some videos, also from the yearly [OMNeT++ Summit](https://summit.omnetpp.org/2022/index.html)
