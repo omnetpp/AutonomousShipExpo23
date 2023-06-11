@@ -15,7 +15,6 @@ We look forward to hearing from you! Please **get in touch** with us for any que
 
 [https://www.omnest.com/contact](https://www.omnest.com/contact)
 
- 
-We look forward to hearing from you! Please **get in touch** with us for any questions you have: [https://www.omnest.com/contact](https://www.omnest.com/contact)
+
 
 [Back to start](index.html)
