@@ -1,8 +1,7 @@
 ---
+title: "Let’s get technical!"
 layout: page
 ---
-
-# Let’s get technical!
 
 The INET Framework is the most extensive network simulation framework for OMNEST. Here are some showcases that will enable you to get an in-depth understanding of some of its capabilities. The full documentation is also accessible from the link below.
 

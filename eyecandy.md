@@ -1,8 +1,8 @@
 ---
+title: "Eye Candy"
 layout: page
 ---
 
-# Eye Candy
 This little video example is just meant to be a conversation starter. Ships of various types and sizes enter the harbor area at different places, and move along different paths. When possible, they communicate with the harbor base server (bottom right) through one of six access points through a network with 3 routers and sometimes acting as relays themselves, extending the range of access points.  
 
 <br>
