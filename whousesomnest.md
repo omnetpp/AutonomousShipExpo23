@@ -1,4 +1,7 @@
-[![titlebar](titlebar.png)](./index.html)
+---
+layout: page
+---
+
 # Who uses OMNEST?
 It is safe to say, that a very large portion of Fortune500 companies use OMNEST in their R&D. Recently, the <a href="https://inet.omnetpp.org/docs/showcases/index.html" target="_blank">INET Framework's</a> TSN features have attracted the attention of a lot of automotive OEMs and suppliers. We expect, that in the maritime sector, OMNEST may come in very handy as well for testing out new ideas, and developing them with confidence. 
 

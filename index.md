@@ -1,5 +1,7 @@
+---
+layout: page
+---
 
-![](titlebar.png)
 ## <a href="https://www.omnest.com" target="_blank">OMNEST</a> @ Autonomous Ship Expo
 
 Thank you for meeting us in Amsterdam. Since you are here, we would like to present you with the option to explore and try OMNEST at your own pace.
@@ -12,7 +14,6 @@ Many of our existing clients use OMNEST for network simulation. In-vehicle netwo
 
 Should you have any questions at all, I would be very happy to hear from you. Please feel free to send me an email at *gabor dot tabi (curly”at”sign) omnest dot com*. 
 
----
 ## Why Choose OMNEST?
 1. **Realistic and Dynamic Simulations:** Our advanced simulation engine enables modeling of maritime environments, mobility, vessel interactions, and sensor simulations. Experience realistic scenarios that help evaluate and validate autonomous ship systems.
 
@@ -23,8 +24,6 @@ Should you have any questions at all, I would be very happy to hear from you. Pl
 4. **Comprehensive Analysis and Visualization:** OMNEST offers robust analysis and visualization capabilities to gain insights from simulation data. Analyze system performance, identify bottlenecks, and make data-driven decisions to optimize autonomous ship systems.
 
 
----
-
 ## About OMNEST
 
 [What is OMNEST?](whatisomnest.html)
@@ -33,11 +32,7 @@ Should you have any questions at all, I would be very happy to hear from you. Pl
 
 [Who uses OMNEST?](whousesomnest.html)
 
----
-
 [Eye Candy](eyecandy.html)
-
----
 
 ## Links to some published papers in the maritime field
 

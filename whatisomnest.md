@@ -1,4 +1,7 @@
-[![titlebar](titlebar.png)](https://omnetpp.github.io/AutonomousShipExpo23/)
+---
+layout: page
+---
+
 # What is OMNEST?
 
 ## **OMNEST simulation software has been chosen by R&D staff, researchers, and engineers worldwide** to investigate scenarios and design alternatives in various wired/wireless networks, interconnection networks, queueing-based performance models, and other systems. OMNEST simulations can also be embedded into your own software products.
